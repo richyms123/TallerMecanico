@@ -700,6 +700,7 @@
             this.txtBuscar.DefaultFont = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBuscar.DefaultText = "";
             this.txtBuscar.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(53)))), ((int)(((byte)(63)))));
+            this.txtBuscar.ForeColor = System.Drawing.Color.White;
             this.txtBuscar.HideSelection = true;
             this.txtBuscar.IconLeft = null;
             this.txtBuscar.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
@@ -730,7 +731,7 @@
             this.txtBuscar.OnHoverState = stateProperties23;
             stateProperties24.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(53)))), ((int)(((byte)(63)))));
             stateProperties24.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(53)))), ((int)(((byte)(63)))));
-            stateProperties24.ForeColor = System.Drawing.Color.Empty;
+            stateProperties24.ForeColor = System.Drawing.Color.White;
             stateProperties24.PlaceholderForeColor = System.Drawing.Color.Empty;
             this.txtBuscar.OnIdleState = stateProperties24;
             this.txtBuscar.Padding = new System.Windows.Forms.Padding(3);

@@ -20,11 +20,11 @@ namespace CapaDatos
         public RepositorioConexion()
         {
 
-            cadenaConexion = "Server=127.0.0.1;" +
+            cadenaConexion = "Server=20.39.137.21;" +
                              "Port=3306;" +
                              "Database=TallerMecanico;" +
-                             "Uid=root;" +
-                             "Pwd=;";
+                             "Uid=richyms;" +
+                             "Pwd=Elamlo110305;";
         }
 
         protected MySqlConnection ObtenerConexion()
